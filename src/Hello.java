@@ -4,6 +4,9 @@ public class Hello {
 	public static void main(String args[]) {
 		System.out.println("Elijah Schoneweis");
 		System.out.println("Computer Science");
+
+		System.out.println("Connor Nichols!");
+		System.out.println("Computer Science!");
 	}
 	
 }
